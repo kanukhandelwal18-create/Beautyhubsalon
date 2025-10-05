@@ -1,3 +1,4 @@
+
 :root {
   --bg: #ffffff;
   --surface: #ffb0c5;
@@ -35,7 +36,7 @@ body {
   padding: 15px 0;
   z-index: 100;
   background: transparent;
-  transition: background 0.3s ease;
+  transition:background 0.3s ease;
 }
 
 .navbar.scrolled {
